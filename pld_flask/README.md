@@ -1,4 +1,5 @@
 # PLD Flask Project
+This implementation does not use a database!
 
 ## Step 1: Setup and Project Structure
 1) First, create a directory for the project and set up a virtual environment then activate it:
